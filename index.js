@@ -1,6 +1,6 @@
-const food = require('./lunch.js');
+const { nutrition } = require('./lunch.js');
 
-const yummy = new food.lunch();
+const yummy = new nutrition();
 
 yummy
   .bread('ciabatta')

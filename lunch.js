@@ -1,4 +1,4 @@
-const lunch = function () {
+const food = function () {
     this.sandwich = {}
     this.bread = bread => {
         this.sandwich.bread = bread
@@ -20,6 +20,6 @@ const lunch = function () {
    }
 
 
-exports.lunch = lunch;
+exports.nutrition = food;
 
    
