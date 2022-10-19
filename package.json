@@ -1,0 +1,12 @@
+{
+  "name": "fluent",
+  "version": "1.0.0",
+  "description": "fluent api explorations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gillian Bladen-Clark <gillian.bladen-clark@olmgroup.com>",
+  "license": "ISC"
+}
